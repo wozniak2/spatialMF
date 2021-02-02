@@ -21,7 +21,7 @@ library(ggmap)
 library(ggplot2)
 
 # register in GoogleMaps with API
-register_google(key = "AIzaSyBgQ7-a_m5FEFDMV006Nyjl9W0c0PmwDAw")
+register_google(key = "provide your API here")
 
 # download the map
 map <- get_map(location = "Poznań", zoom=11, scale=2)
