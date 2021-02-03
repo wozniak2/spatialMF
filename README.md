@@ -1,4 +1,4 @@
-# Spatial matching on the urban labor market.
+Spatial matching on the urban labor market.
 
 # files aglo.* are shapefile for performing the analysis
 # file *.xlsx is the main dataset
